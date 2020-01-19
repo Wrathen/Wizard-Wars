@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: aa2286443f99405478f611538ca1ca4c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _player1GameObject: {instanceID: 0}
+  - _player2GameObject: {instanceID: 0}
+  - TouchArea1: {instanceID: 0}
+  - TouchArea2: {instanceID: 0}
+  - Entity_Fireball: {fileID: 5677055497686963649, guid: ac4e351c1574a6f4fb555faaeb3308d1,
+      type: 3}
+  - Entity_IceLance: {fileID: 5677055497686963649, guid: afd5ab12144ba014dbec42c92a9908ae,
+      type: 3}
+  - _Player1: {instanceID: 0}
+  - _Player2: {instanceID: 0}
+  - Me: {instanceID: 0}
+  - Enemy: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
