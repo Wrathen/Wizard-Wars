@@ -1,5 +1,5 @@
 # Wizard Wars
- Online 1v1 Wizard Wars Game made with Unity.
+ Online 1v1 Wizard Wars Game made with Unity C#.
 
 - This has been a simple recreation of what I did back in the day. The previous version was for Android phones and I had great times playing it with friends. But unfortunately I lost all source code and stuff. So, this one is nothing but a recreation.
 
